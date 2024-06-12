@@ -117,7 +117,6 @@ class BibliotecaConsole:
                 break
             else:
                 print("Opção inválida. Tente novamente.")
-            input("Pressione Enter para continuar...")
 
 if __name__ == "__main__":
     biblioteca = BibliotecaConsole()
